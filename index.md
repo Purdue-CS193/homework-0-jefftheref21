@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+**Rocket**
+
 [Youtube]{youtube.com} and ![Image](src)
 ```
 
