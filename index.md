@@ -8,12 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Jeffrey Wu
+## Amazing person
+### King of the World
 
 - Bulleted
 - List
@@ -26,7 +25,7 @@ Syntax highlighted code block
 **Rocket Science**
 
 [Youtube]{youtube.com} and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
