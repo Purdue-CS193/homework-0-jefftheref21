@@ -1,38 +1,14 @@
-## Welcome to GitHub Pages
+# Jeffrey Wu's First CS193 Homework
+## Things I like about CS193
+- Very flexible in PSO times
+- Student-run class feels a lot more chill
+- Not very time consuming
+- Useful for different applications in CS
+- Taught by very funny undergraduates
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1. My pronouns are _U.S.A_ RAHHHH
+2. **Rocket Science**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
-
-# Jeffrey Wu
-## Amazing person
-### King of the World
-
-- Bulleted
-- List
-
-1. My pronouns are U.S.A RAHHHH
-2. Rocket Science
-
-**Bold** and _Italic_ and `Code` text
-
-**Rocket Science**
-
-[Youtube](youtube.com) and ![Image](src)
+[Youtube](youtube.com)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
